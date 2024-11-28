@@ -24,7 +24,7 @@ This application functions as an online supermarket. The main goal is to specify
 - Enables you to retrieve the price of an item.
 - Provides the total cost, including taxes, for selected items.
 
-#N-Letters
+# N-Letters
 This is a simple application that contains an array of words. You can construct a word by taking the letter at the corresponding position from each word in the array.
 For example, given the words ['yoda', 'best', 'has'], you will construct the word 'yes'.
 
