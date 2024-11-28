@@ -29,4 +29,4 @@ This is a simple application that contains an array of words. You can construct 
 For example, given the words ['yoda', 'best', 'has'], you will construct the word 'yes'.
 
 # Important Notes
-Remember to follow the instruction of each application.
+Remember to follow the instruction of each application to use it. The instructions will be displayed when the app is execueted.
